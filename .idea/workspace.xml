@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5c8ac2a-7b1d-4a12-95cf-27578d63a5cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JA111Sessions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/GrandSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/SonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/HdfcBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/ModelClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/SbiBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/bank/TransactionClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BKu7ZOUmFsdZPQTGBJBEMTjyXC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Normal">
+    <configuration name="Normal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inhertance.bank.Normal" />
+      <module name="JA111Sessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inhertance.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inhertance.SonClass" />
+      <module name="JA111Sessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inhertance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inhertance.bank.TransactionClass" />
+      <module name="JA111Sessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inhertance.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Normal" />
+        <item itemvalue="Application.TransactionClass" />
+        <item itemvalue="Application.SonClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5c8ac2a-7b1d-4a12-95cf-27578d63a5cd" name="Changes" comment="" />
+      <created>1656666934585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656666934585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

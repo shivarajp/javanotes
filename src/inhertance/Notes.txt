@@ -1,0 +1,24 @@
+
+Inheritance
+
+Lion
+likes eat rabbit, deer
+
+
+Cub
+properties will be carried
+
+
+A -> B
+ B can access A
+
+
+final keyword
+
+class, variabe, fun
+
+final class - class cannot be inherited
+final variable = once you assign value it cannot be changed.
+final methods - you override
+
+
